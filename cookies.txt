@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+namsung.zz.mu	TRUE	/	FALSE	1999999999	wordpress_test_cookie	WP+Cookie+check
+namsung.zz.mu	TRUE	/	FALSE	1999999999	wc_session_cookie_542c26d575ce197f8ab3c19dc2d57856	R2qcFLVN7FQ8myvsPTNiWSlzQ99yNhnZ%7C%7C1393641572%7C%7C1393637972%7C%7C0f5b77fc35975d365a7d72d6e0d3f135
+namsung.zz.mu	TRUE	/	FALSE	1999999999	woocommerce_items_in_cart	0
+namsung.zz.mu	TRUE	/	FALSE	1999999999	woocommerce_cart_hash	0
+

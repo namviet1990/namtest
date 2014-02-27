@@ -1,0 +1,27 @@
+HTTrack3.47-27+htsswf+htsjava launched on Thu, 27 Feb 2014 09:39:23 at namsung.zz.mu +*.png +*.gif +*.jpg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2013], %s -->" -%l "en, *" namsung.zz.mu -O1 "C:\Users\Do\Desktop\site\nam test" +*.png +*.gif +*.jpg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+09:39:26	Warning: 	Note: due to namsung.zz.mu remote robots.txt rules, links beginning with these path will be forbidden: /wp-admin/, /wp-includes/ (see in the options to disable this)
+09:39:50	Error: 	"Not Found" (404) at link namsung.zz.mu/comments/feed/ (from namsung.zz.mu/)
+09:40:24	Warning: 	Link namsung.zz.mu/wp-login.php not scanned (follow robots meta tag)
+09:40:24	Error: 	"Not Found" (404) at link namsung.zz.mu/wp-content/themes/ontopic/styles/images/ico-search.png (from namsung.zz.mu/wp-content/themes/ontopic/styles/blue.css)
+09:40:24	Warning: 	Retry after error -4 (No data (connection closed)) at link namsung.zz.mu/wp-content/themes/ontopic/functions/images/ico-alert.png (from namsung.zz.mu/wp-content/themes/ontopic/functions/css/shortcodes.css)
+09:40:24	Warning: 	Moved Permanently for namsung.zz.mu/?p=2
+09:40:24	Warning: 	File has moved from namsung.zz.mu/?p=2 to http://namsung.zz.mu/sample-page/
+09:40:24	Warning: 	Moved Permanently for namsung.zz.mu/?p=34
+09:40:24	Warning: 	File has moved from namsung.zz.mu/?p=34 to http://namsung.zz.mu/my-account/
+09:40:31	Warning: 	Moved Permanently for namsung.zz.mu/?p=103
+09:40:31	Warning: 	File has moved from namsung.zz.mu/?p=103 to http://namsung.zz.mu/2013/11/apple-hiring-developers-next-gen-payment-platform-help-retail-enter-new-markets/
+09:40:31	Warning: 	Moved Permanently for namsung.zz.mu/?p=101
+09:40:31	Warning: 	File has moved from namsung.zz.mu/?p=101 to http://namsung.zz.mu/2013/11/apple-starts-selling-unlocked-sim-free-iphone-5s-u-s/
+09:40:32	Warning: 	Retry after error -4 (No data (connection closed)) at link namsung.zz.mu/wp-content/themes/ontopic/functions/images/ico-alert.png (from namsung.zz.mu/wp-content/themes/ontopic/functions/css/shortcodes.css)
+09:40:32	Warning: 	Moved Permanently for namsung.zz.mu/?p=36
+09:40:32	Warning: 	File has moved from namsung.zz.mu/?p=36 to http://namsung.zz.mu/my-account/lost-password/
+
+HTTrack Website Copier/3.47-27 mirror complete in 1 minutes 10 seconds : 78 links scanned, 68 files written (1816127 bytes overall) [1650538 bytes received at 23579 bytes/sec], 288532 bytes transferred using HTTP compression in 17 files, ratio 21%, 1.4 requests per connection
+(2 errors, 14 warnings, 0 messages)
